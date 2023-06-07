@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Elham 👋
 
 ## 🔧 Technologies & Tools
 
@@ -43,7 +43,3 @@ I'm a Full Stack Developer with a passion for problem solving and building scala
 🌱 I’m always learning and improving my skills 🚀
 
 
-<!---
-Elham-EN/Elham-EN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
---->
