@@ -26,19 +26,9 @@
 ![](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
 
 ## 👨‍💻 About me
+Hello! I'm Elham, a versatile software engineer proficient in JavaScript, TypeScript, Python, AWS and React Native. I'm passionate about using the right tools to build user-centric applications, always seeking to learn, adapt, and improve. My experience spans front-end and full-stack roles, marked by a strong commitment to clean, efficient coding and effective teamwork.
 
-```javascript
-const yourName = {
-  languages: ["JavaScript", "TypeScript", "Python", "Go", "C#"],
-  databases: ["MySQL", "MongoDB", "PostgreSQL"],
-  frontend: ["HTML", "CSS", "React.js", "Redux", "React Native"],
-  backend: ["Node.js", "Express.js", "Django", "GraphQL"],
-  cloud: ["AWS", "Serverless"],
-  tools: ["Docker", "GitHub Actions"],
-  tests: ["Jest", "Cypress"]
-};
-
-I'm a Full Stack Developer with a passion for problem solving and building scalable web applications.
+Off the clock, I'm a sports enthusiast and particularly enjoy basketball and soccer. I also love travelling to new places, meeting friends and exploring different cultures. I have a keen interest in history, space exploration and, of course, new tech inventions. My ultimate dream is to create a product that can solve a real-world problem, and perhaps even start a tech startup.
 
 🌱 I’m always learning and improving my skills 🚀
 
