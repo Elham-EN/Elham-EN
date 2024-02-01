@@ -26,8 +26,7 @@
 ![](https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
 
 ## 👨‍💻 About me
-Dynamic and proficient Full-Stack Developer with over 3 years of experience specialising in React.js and modern JavaScript frameworks for both front-end and back-end development. Expert in crafting scalable web applications and cross-platform mobile apps, with a keen focus on user-centric design and efficient, clean code. Demonstrated ability in leading development projects from concept to deployment, utilising Agile methodologies and cutting-edge technologies. Passionate about continuous learning and applying innovative solutions to real-world problems, I bring a blend of technical expertise and collaborative teamwork to drive digital transformation and impactful results.
+I am a Full-Stack Developer with over three years of experience, skilled in TypeScript, Node.js, React, React Native, .NET, AWS and more. My education in computer science at Swinburne University taught me to write clean and efficient code. I am good at making high-quality software that works well in fast and changing tech environments. I quickly adapt to new situations, like working in tech startups, and I love solving difficult problems. At university, I learned how important it is to work well with others and talk clearly about our work. These skills have helped me a lot in leading projects. I am passionate about coding and dedicated to building exceptional projects with great effort and commitment, while also being flexible and adaptable in switching between technologies, with a strong willingness to learn and embrace new technologies as needed
 
-🌱 I’m always learning and improving my skills 🚀
 
 
